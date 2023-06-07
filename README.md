@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Hola, soy Javier! 👋
 
-<!--
-**Javi1143/Javi1143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de ingeniería en sistemas computacionales apasionado por el desarrollo web y en constante aprendizaje. Me gusta enfrentar desafíos técnicos y adquirir nuevas habilidades en el mundo de la programación.
 
-Here are some ideas to get you started:
+## Habilidades y tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo web: 💻 HTML, 🎨 CSS, 🔮 JavaScript
+- Bases de datos: 🗄️ MySQL
+- Control de versiones: 🌲 Git
+- Otras habilidades: 🧠 Resolución de problemas,👥 trabajo en equipo
+
+
+## Proyectos en Desarrollo 🚧 
+
+Actualmente, estoy en la etapa inicial de mi carrera en desarrollo web y estoy trabajando en ampliar mis conocimientos y habilidades. Estoy emocionado por los proyectos futuros que estaré creando y compartiré aquí en breve.
+
+
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡No dudes en explorar los repositorios y dejar tus comentarios! 👍
